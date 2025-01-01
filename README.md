@@ -13,3 +13,4 @@ The source code has to follow certain rules:
  * There should be a **README.md** file at the root of directory.
  * Must be executable.
  * The length of files will be tested using **wc**
+python hello world
